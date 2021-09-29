@@ -11,6 +11,7 @@
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 <br />
 
@@ -27,6 +28,7 @@
 
 [linkedin]: https://www.linkedin.com/in/soner-ayberk-030ab6b6
 [instagram]: https://www.instagram.com/somer_byy/
+[gmail]: mailto:soner.ayberk@gmail.com
 [python]: https://www.python.org
 [django]: https://www.djangoproject.com
 [sql]: https://docs.sqlalchemy.org
