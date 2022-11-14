@@ -3,10 +3,10 @@ I'm Soner, Python Software engineer from 🇺🇦 Kyiv, Ukraine.
 
 - 👨‍💼 I work for [DjangoStars](https://djangostars.com) as a team leader of a fintech project
 - 🚕 I co-founder and developer of [Ride](https://ridein.app) - iOS application for Taxi Services comparison written in Swift and Python's aiohttp
-- 🔭 I just finished with "Zero Downtime Deployments in Django" techniques
-- 🚀 2021 Goals: finally complete and deploy SpyFall - a party easy to learn game of bluffing, clever questions and answers
-- 🌱 I’m currently writing a small guide of tuning CircleCI with amazing GitHub Actions
-- 👀 I do a lot code review as you can see in my activity 🤣
+- 🔭 I just finished "Zero Downtime Deployments in Django" techniques
+- 🚀 ~~2021 Goals: finally complete and deploy SpyFall - a party easy to learn game of bluffing, clever questions and answers~~
+- 🌱 I’m currently writing a small guide about tuning CircleCI with amazing GitHub Actions
+- 👀 I do a lot of code review as you can see in my activity 🤣
 
 ### Connect with me:
 
