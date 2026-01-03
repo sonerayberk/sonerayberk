@@ -1,12 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> 
 I'm Soner, Python Software engineer from 🇺🇦 Kyiv, Ukraine. 
 
-- 👨‍💼 I work for [DjangoStars](https://djangostars.com) as a team leader of a fintech project
-- 🚕 I am co-founder and developer of [Ride](https://ridein.app) - iOS application for Taxi Services comparison written in Swift and Python's aiohttp
-- 🔭 Recently worked on the "Zero Downtime Deployments" techniques in RDMS.
-- 🚀 ~~2021 Goals: finally complete and deploy SpyFall - a party game of bluffing, clever questions and answers~~
-- 👀 I do a lot of code review as you can see in my activity 🤣
-
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
